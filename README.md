@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxgs-p)](https://github.com/mxgs-p)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxgs-p)](https://github.com/mxgs-p)
+-->
