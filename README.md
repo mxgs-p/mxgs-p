@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
  
-Hi there, :bowtie: my name is Maximiliano and soon i will show statistics about my work.
+Hi there, :raising_hand: my name is Maximiliano and soon i will show statistics about my work.
 
 <!--
 My name is **Maximiliano** and here you'll find some things I've been doing.
